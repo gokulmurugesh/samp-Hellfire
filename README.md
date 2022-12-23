@@ -16,9 +16,6 @@ the press, not always usable and bugs need to be reported!
 
 
 Enjoy :)
-
-[![sampctl](https://shields.southcla.ws/badge/sampctl-samp--Hellfire-2f2f2f.svg?style=for-the-badge)](https://github.com/AmyrAhmady/samp-Hellfire)
-
 <!--
 Short description of your library, why it's useful, some examples, pictures or
 videos. Link to your forum release thread too.
@@ -48,7 +45,7 @@ Happy Pawning!
 Simply install to your project:
 
 ```bash
-sampctl package install AmyrAhmady/samp-Hellfire
+sampctl install gokulmurugesh/samp-Hellfire
 ```
 
 Include in your code and begin using the library:
@@ -76,5 +73,5 @@ y_testing unit-tests, you should indicate to readers what to expect below here.
 To test, simply run the package:
 
 ```bash
-sampctl package run
+sampctl run
 ```
