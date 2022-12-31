@@ -1,5 +1,5 @@
 {
-	"user": "Southclaws",
+	"user": "gokulmurugesh",
 	"repo": "samp-Hellfire",
 	"entry": "gamemodes\\sffa.pwn",
 	"output": "gamemodes\\sffa.amx",
@@ -17,14 +17,14 @@
 		"Southclaws/pawn-ctime",
 		"Southclaws/samp-ini",
 		"samp-incognito/samp-streamer-plugin",
-		"pawn-lang/YSI-Includes",
 		"Zeex/amx_assembly",
 		"Zeex/samp-plugin-crashdetect/include",
 		"southclaws/samp-linegen",
 		"southclaws/samp-geoip",
-		"Southclaws/easyDialog",
+		"Awsomedude/easyDialog",
 		"Southclaws/mathutil",
-		"Southclaws/samp-whirlpool"
+		"Southclaws/samp-whirlpool",
+		"pawn-lang/YSI-Includes@5.x"
 	],
 	"runtime": {
 		"version": "0.3.7",
